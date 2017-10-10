@@ -2,7 +2,7 @@
 PHP Library for easy convert long url to short url.
 ## Install library with composer.
 ```
-composer require nattaponra/google-short-url-php
+composer require nattaponra/google-short-url-php dev-master
 ```
 ## Inherent class and setting api key.
 ```php
