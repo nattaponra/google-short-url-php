@@ -1,5 +1,8 @@
 {
     "name": "nattaponra/google-short-url-php",
+    "minimum-stability": "stable",
+    "description": "PHP Library for easy convert long url to short url.",
+    "license": "proprietary",
     "authors": [
         {
             "name": "Nattapon Rakthong",
